@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 May 2024 02:24:48 at http://pixelwibes.com/template/ebazar/html/dist/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pixelwibes.com/template/ebazar/html/dist/index.html -O1 "C:\Users\johnm\Desktop\eeb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:28:36	Warning: 	Retry after error -4 (Incorrect length (528821 Bytes, 645604 expected)) at link pixelwibes.com/template/ebazar/html/dist/assets/fonts/icofont/fonts/icofont.woff (from pixelwibes.com/template/ebazar/html/dist/assets/css/ebazar.style.min.css)
+02:28:36	Warning: 	Retry after error -2 (Receive Time Out) at link pixelwibes.com/template/ebazar/html/dist/assets/fonts/icofont/fonts/icofont.ttf (from pixelwibes.com/template/ebazar/html/dist/assets/css/ebazar.style.min.css)
+02:31:04	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/cropped.jpg (from pixelwibes.com/template/ebazar/html/dist/product-edit.html)
+02:31:04	Warning: 	Retry after error -4 (No data (connection closed)) at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/fullcalendar/main.min.css (from pixelwibes.com/template/ebazar/html/dist/calendar.html)
+02:31:31	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/assets/images/xs/avatar2.jpg (from pixelwibes.com/template/ebazar/html/dist/contact.html)
+02:31:31	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/assets/images/xs/avatar3.jpg (from pixelwibes.com/template/ebazar/html/dist/contact.html)
+02:31:31	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/assets/images/xs/avatar8.jpg (from pixelwibes.com/template/ebazar/html/dist/contact.html)
+02:31:31	Warning: 	Retry after error -2 (Receive Time Out) at link pixelwibes.com/template/ebazar/html/dist/assets/fonts/icofont/fonts/icofont.ttf (from pixelwibes.com/template/ebazar/html/dist/assets/css/ebazar.style.min.css)
+02:31:31	Warning: 	Retry after error -4 (No data (connection closed)) at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/fonts/dropify.eot (from pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/css/dropify.min.css)
+02:31:31	Warning: 	Retry after error -2 (Receive Time Out) at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/fonts/dropify.ttf (from pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/css/dropify.min.css)
+02:31:31	Warning: 	Retry after error -4 (No data (connection closed)) at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/fullcalendar/main.min.css (from pixelwibes.com/template/ebazar/html/dist/calendar.html)
+02:33:31	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/ui-elements/admin-profile.html (from pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-card.html)
+02:33:31	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/ui-elements/order-invoices.html (from pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-card.html)
+02:33:31	Error: 	"Not Found" (404) at link pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-elements/auth-signin.html (from pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-card.html)
+02:33:31	Error: 	"No data (connection closed)" (-4) after 2 retries at link pixelwibes.com/template/ebazar/html/dist/assets/fonts/icofont/fonts/icofont.ttf (from pixelwibes.com/template/ebazar/html/dist/assets/css/ebazar.style.min.css)
+02:33:31	Warning: 	Retry after error -4 (No data (connection closed)) at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/fonts/dropify.eot (from pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/css/dropify.min.css)
+02:33:31	Warning: 	Retry after error -4 (No data (connection closed)) at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/fonts/dropify.ttf (from pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/css/dropify.min.css)
+02:33:31	Error: 	"Receive Time Out" (-2) after 2 retries at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/fullcalendar/main.min.css (from pixelwibes.com/template/ebazar/html/dist/calendar.html)
+02:35:31	Error: 	"Receive Time Out" (-2) after 2 retries at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/fonts/dropify.eot (from pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/css/dropify.min.css)
+02:35:31	Error: 	"Receive Time Out" (-2) after 2 retries at link pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/fonts/dropify.ttf (from pixelwibes.com/template/ebazar/html/dist/assets/plugin/dropify/dist/css/dropify.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 43 seconds : 204 links scanned, 182 files written (13814427 bytes overall) [7356058 bytes received at 11440 bytes/sec], 7863113 bytes transferred using HTTP compression in 102 files, ratio 14%, 5.1 requests per connection
+(11 errors, 9 warnings, 0 messages)
